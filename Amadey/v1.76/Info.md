@@ -4,7 +4,7 @@ Version 1.76
 
 password : infected
 
-c2 : http[:]//170.130.55[.]77/s1Qa9vCs/index.php
+c2 : hxxp[:]//170.130.55[.]77/s1Qa9vCs/index.php
 
 
 T1106 -  Starts itself from another location
@@ -138,7 +138,7 @@ method: GET
 
 process: c:\programdata\5a997433d2\gbnn.exe
 
-request: http://170.130.55.77/s1Qa9vCs/cred.dll
+request: hxxp[:]//170.130.55.77/s1Qa9vCs/cred.dll
 
 time: 25160 ms
 
