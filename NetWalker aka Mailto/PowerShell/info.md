@@ -1,4 +1,5 @@
 netwalker.ps1
+#Netwalker #Ransomware
 
 File info: ASCII text, with very long lines, with no line terminators
 
