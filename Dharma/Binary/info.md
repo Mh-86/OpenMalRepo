@@ -1,3 +1,5 @@
+#Dharma #Ransomware #Crysis
+
 https://app.any.run/tasks/471cd691-fb02-4d0c-8f25-3763ac13edcd/
 
 https://www.joesandbox.com/analysis/292749/0/html
